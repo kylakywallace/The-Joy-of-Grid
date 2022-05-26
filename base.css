@@ -2,7 +2,7 @@
 
 body {
     background: rgb(76, 47, 95);
-    color: #fff;
+    color: rgb(243, 202, 255);
     font-family: 'Noto Sans', sans-serif;
 }
 
@@ -11,9 +11,9 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #8fa8ec;
+    background: #ab8fec;
     font-size: 3rem;
-    color: #fff;
+    color: rgb(243, 202, 255);
     box-shadow: rgba(195, 209, 243, 0.1) 0px 0.15rem 0.5rem, rgba(2, 8, 20, 0.1) 0px 0.075rem 0.175rem;
     height: 100%;
     width: 100%;
@@ -27,7 +27,7 @@ body {
  }
   
 .card:hover {
-    box-shadow: rgba(60, 0, 138, 0.1) 0px 0.35em 1.175em, rgba(2, 8, 20, 0.08) 0px 0.175em 0.5em;
+    box-shadow: rgba(117, 50, 206, 0.1) 0px 0.35em 1.175em, rgba(2, 8, 20, 0.08) 0px 0.175em 0.5em;
     transform: translateY(-3px) scale(1.1);
  }
 
